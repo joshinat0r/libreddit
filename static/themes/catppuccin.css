@@ -1,0 +1,11 @@
+.catppuccin {
+  --background: #11111b;
+  --text: #cdd6f4;
+  --foreground: #1e1e2e;
+  --accent: #fab387;
+  --green: #a6e3a1;
+  --outside: #313244;
+  --post: #313244;
+  --highlighted: #181825;
+  --panel-border: none;
+}
